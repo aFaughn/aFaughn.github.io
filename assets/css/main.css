@@ -4159,3 +4159,17 @@ input, select, textarea {
 		width: 300px;
 		border-radius: 200px;
 	}
+	#resume-link:before {
+		font-family: 'Font Awesome 5 Free';
+	}
+	#resume-link {
+		text-decoration: underline;
+	}
+	#resume-link:hover {
+		text-shadow: 0px 2px 5px #666;
+	}
+	#resume-pdf {
+		font-family: 'Font Awesome 5 Free';
+		text-decoration: none;
+		font-style: normal;
+	}
